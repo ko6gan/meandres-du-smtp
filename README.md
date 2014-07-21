@@ -4,7 +4,7 @@ Les méandres du SMTP - Version Python
 Résumé
 ------
 Chevaucher Python pour tutoyer les méandres du protocole SMTP :). 
-En quoi faisant? La réponse dans le script ;)
+Pour faire simple, il s'agit d'un script mettant en oeuvre le protocole SMTP. Il permet donc d'envoyer des courriels. ;)
 
 
 Prérequis
